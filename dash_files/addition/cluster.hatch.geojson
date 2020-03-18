@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "name": "cluster.hatch",
 "features": [
-{ "type": "Feature", "properties": { "ID": "1" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 122.0285381, -2.08284413 ], [ 122.06420793, -2.04717431 ] ], [ [ 122.00600601, -2.04880769 ], [ 122.02580817, -2.02900552 ] ] ] } }
+{ "type": "Feature", "properties": { "ID": "1" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 120.38917402, -2.93024862 ], [ 120.42442442, -2.89499821 ] ], [ [ 120.36436436, -2.89848973 ], [ 120.4085594, -2.8542947 ] ] ] } }
 ]
 }

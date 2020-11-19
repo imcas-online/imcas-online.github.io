@@ -2,8 +2,8 @@
 "type": "FeatureCollection",
 "name": "cluster.hatch",
 "features": [
-{ "type": "Feature", "properties": { "ID": "1" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 135.10752571, -3.65510903 ], [ 135.11911912, -3.64351562 ] ], [ [ 135.034795480000014, -3.67127072 ], [ 135.09276677, -3.61329943 ] ] ] } },
-{ "type": "Feature", "properties": { "ID": "3" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 126.95095095, 1.87790349 ], [ 127.00024951, 1.92720205 ] ] ] } },
-{ "type": "Feature", "properties": { "ID": "2" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 134.10321403, -3.09046961 ], [ 134.098098099999987, -3.08535368 ] ], [ [ 134.1489583, -3.07964534 ], [ 134.11892257, -3.04960961 ] ], [ [ 134.15815816, -3.03227665 ], [ 134.15626824, -3.03038674 ] ] ] } }
+{ "type": "Feature", "properties": { "ID": "2" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 134.41711616, -2.61241214 ], [ 134.37445539, -2.56975138 ] ] ] } },
+{ "type": "Feature", "properties": { "ID": "1" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 134.322917819999986, -3.19520898 ], [ 134.358358360000011, -3.15976845 ] ], [ [ 134.30253305, -3.15902521 ], [ 134.3310334, -3.13052486 ] ] ] } },
+{ "type": "Feature", "properties": { "ID": "3" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 126.69069069, 1.8439174 ], [ 126.72450857, 1.87773528 ] ], [ [ 126.69069069, 1.90048595 ], [ 126.70664121, 1.91643646 ] ] ] } }
 ]
 }
